@@ -1,0 +1,49 @@
+
+
+#tooltipstackgroupandline {
+    position: absolute;
+    display: none;
+    width: auto;
+    height: auto;
+    /* background: none repeat scroll 0 0 white; */
+    border: 0 none;
+    /* border-radius: 4px 4px 4px 4px; */
+    box-shadow: -3px 3px 15px #888888;
+    /* color: black; */
+    font: 12px sans-serif;
+    padding: 5px;
+    text-align: center;
+  
+    line-height: 1;
+    z-index: 5;
+    
+  }
+
+
+
+.first_legend{
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+
+.child_first_legend{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5px;
+}
+
+.box_child_first_legend{
+    width: 18px ;
+    height: 18px;
+    margin-right: 10px;
+
+}
+.text_child_first_legend{
+  color: #fff;
+ 
+}
