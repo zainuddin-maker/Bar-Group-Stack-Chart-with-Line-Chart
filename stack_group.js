@@ -100,7 +100,6 @@ var configurationliststack = [
 var datastackgroup = [
     {
         Category: "Waiting for internal trucs",
-
         type2: 450,
         type8: 300,
         type3: 120,
